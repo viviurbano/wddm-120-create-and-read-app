@@ -16,10 +16,11 @@ function Footer() {
         </li>
       </ul>
       <p className={styles.copy_right}>
-        Costs<span> &copy;</span>2021
-        {' Viviane Urbano'}
+        <span>React App Costs</span> &copy; 2022
       </p>
+      <p>{'Viviane Urbano'} </p>
     </footer>
   );
 }
+
 export default Footer;

@@ -1,15 +1,9 @@
 .container {
-  width: 100%;
-  max-width: 1200px;
+  width: 1200px;
   display: flex;
   justify-content: space-between;
   margin: 0 auto;
   flex-wrap: wrap;
-  background-color: rgba(0, 255, 255, 0.158);
-}
-
-.min_height {
-  min-height: 75%;
 }
 
 .start {
@@ -19,4 +13,8 @@
 .column {
   flex-direction: column;
   justify-content: flex-start;
+}
+
+.min-height {
+  min-height: 75%;
 }

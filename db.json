@@ -1,0 +1,58 @@
+{
+  "projects": [
+    {
+      "name": "Infrastructure Project",
+      "budget": "10000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 5000,
+      "services": [
+        {
+          "name": "Hire a DevOps",
+          "cost": "5000",
+          "description": "DevOps to build project on AWS",
+          "id": "79475653-9d65-4eb0-921b-9b12b6c6be52"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "New website development",
+      "budget": "3000",
+      "category": {
+        "id": "2",
+        "name": "Development"
+      },
+      "cost": 300,
+      "services": [
+        {
+          "name": "new template",
+          "cost": "300",
+          "description": "buy a new template",
+          "id": "0a570248-3ade-4be3-b19a-a0516908e3b7"
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infrastructure"
+    },
+    {
+      "id": 2,
+      "name": "Development"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planning"
+    }
+  ]
+}
