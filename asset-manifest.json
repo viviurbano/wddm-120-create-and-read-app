@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wddm-120-create-and-read-app/static/css/main.1637d784.css",
+    "main.js": "/wddm-120-create-and-read-app/static/js/main.e0e788ae.js",
+    "static/media/savings.svg": "/wddm-120-create-and-read-app/static/media/savings.25a5174d3c0ce57522d68f3ba58b7407.svg",
+    "index.html": "/wddm-120-create-and-read-app/index.html",
+    "static/media/loading.svg": "/wddm-120-create-and-read-app/static/media/loading.5ff8599871e56a8a672f0861a01ef3bc.svg",
+    "main.1637d784.css.map": "/wddm-120-create-and-read-app/static/css/main.1637d784.css.map",
+    "main.e0e788ae.js.map": "/wddm-120-create-and-read-app/static/js/main.e0e788ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1637d784.css",
+    "static/js/main.e0e788ae.js"
+  ]
+}
