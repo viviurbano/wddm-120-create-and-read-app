@@ -1,74 +1,52 @@
-# wddm-120-create-and-read-app
+# 🎯 wddm-120-create-and-read-app
 
-Create and Read records. Update and Delete will be donenext assignment
+This is the assigment 2 of the curse Web Application Programming.
+The goal is develop an app capable to create and read records. 
 
-## Getting Started with Create React App
+In this task an application will be created containing front-end and back-end code development with Firebase. In this application, the user must be able to create a new record and later read a record.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this README.md you will know about these sections:  
+- [x] 1. App Title: Contains a description of what the app does and optional background info.
+- [x] 2. Screenshot(s): A screenshot of your app’s landing page and any other screenshots of interest.
+- [x] 3. Technologies Used: List of the technologies used.
+- [x] 4. Getting Started: Include a link to the deployed app and your Issues board with the project’s planning.
+- [x] 5. Next Steps: Planned future enhancements.
+- [x] 6. Frequent commits date back to the very beginning of the project.  
 
-## Available Scripts
+Given this information above, here are the sections for to read and know more about this repo.  
 
-In the project directory, you can run:
+## 1️⃣  App Title
+Mine app receive the name "Costs", since it has the purpose of calcule and crontrol the costs of any project.
 
-### `npm start`
+## 2️⃣ Screenshots
+Here go a few images of the App 
+
+## 3️⃣ Technologies Used
+To develop this app, is used the following technologies: 
+- React
+- Fake Json server. This server was used because it is able to run call such as GET, POST, PUT, PATCH and DELETE. Unforntunetaly changes aren't persisted between calls.
+
+## 4️⃣ Getting Started
+Github Pages is able to deal with static pages. To be able to persist data, was used the fake json server. You can check out the application in the following link: 
+🔗 [Costs project](https://viviurbano.github.io/wddm-120-create-and-read-app/)
+
+## 5️⃣ Next steps
+- [ ] Replace Fake Json server for Firebase
+- [ ] Add login step component, using user and login to authenticate all users.
+- [ ] Develop and add data in page Company.  
+- [ ] Develop and add data in page Contact.  
+- [ ] Add Bootstrap to have a better layout.  
+- [ ] Change Footer, letting data better organized and structured.  
+
+
+## 6️⃣ Commits
+Please, take a look at commits history: 
+🔗 [Link to commits history](https://github.com/viviurbano/wddm-120-create-and-read-app/commits/main)
+
+- Scripts to run this project in your environment
+
+First of all, download the project or do a fork. Open in a Visual Studio Code. Open the termina, in the project directory, you can run:
+`npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
