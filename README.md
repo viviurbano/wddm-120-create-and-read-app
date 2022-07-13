@@ -1,6 +1,9 @@
 # 🎯 wddm-120-create-and-read-app
 
 This is the assigment 2 of the curse Web Application Programming.
+
+🔗 [The project live](https://viviurbano.github.io/wddm-120-create-and-read-app/)
+
 The goal is develop an app capable to create and read records. 
 
 In this task an application will be created containing front-end and back-end code development with Firebase. In this application, the user must be able to create a new record and later read a record.
@@ -29,7 +32,7 @@ To develop this app, is used the following technologies:
 - Fake Json server. This server was used because it is able to run call such as GET, POST, PUT, PATCH and DELETE. Unforntunetaly changes aren't persisted between calls.
 
 ## 4️⃣ Getting Started
-Github Pages is able to deal with static pages. To be able to persist data, was used the fake json server. You can check out the application in the following link: 
+Github Pages is able to deal with static pages. To be able to persist data, was used the fake json server. You can check out the application in the following link:   
 🔗 [Costs project](https://viviurbano.github.io/wddm-120-create-and-read-app/)
 
 ## 5️⃣ Next steps
@@ -39,6 +42,7 @@ Github Pages is able to deal with static pages. To be able to persist data, was 
 - [ ] Develop and add data in page Contact.  
 - [ ] Add Bootstrap to have a better layout.  
 - [ ] Change Footer, letting data better organized and structured.  
+- [ ] Deploy in the app in Heroku (and as consequence, kill the project in Githubpages).  
 
 
 ## 6️⃣ Commits
