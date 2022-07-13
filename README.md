@@ -19,7 +19,9 @@ Given this information above, here are the sections for to read and know more ab
 Mine app receive the name "Costs", since it has the purpose of calcule and crontrol the costs of any project.
 
 ## 2️⃣ Screenshots
-Here go a few images of the App 
+More screenshots are available in this repo, under the folder /imgs. Follow belowa single screen shot with the main page of the app - Projets
+
+![This is an image](imgs/projects_page.png)
 
 ## 3️⃣ Technologies Used
 To develop this app, is used the following technologies: 
